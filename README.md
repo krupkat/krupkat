@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @krupkat, a dreamer by day, programmer by night.
+- 👀 I’m interested in solving interesting challenges with code.
+- 🌱 I’m currently learning Rust / running BTC⚡and ETH nodes.
+- 💞️ I’m looking to collaborate on tools / educational materials.
+- 📫 You can reach me through Github!
